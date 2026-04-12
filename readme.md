@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3c3ZTF0czBwYmZzYm1kM29qNGw4MXlnem43dXFjdG80b2Z0czYweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkbi/giphy.gif" alt="Coding GIF" width="100"/>
   <h1>Hi there 👋, I'm Jerateep</h1>
   <p>Passionate Full Stack Developer with a knack for building robust and scalable web applications. I enjoy creating intuitive user experiences and solving complex problems with clean, efficient code.</p>
 </div>
