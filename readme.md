@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About
 
-* Full Stack Developer at **Gulf Space Technology (formerly Thaicom PCL)** since 2018, owning around ten core back-office systems and supporting 20+ more.
+* Full Stack Developer, owning around ten core back-office systems and supporting 20+ more.
 * Specialised in long-running **legacy systems** — verifying how a system actually behaves against the database before any change, so migrations preserve the business process. Especially where finance and approvals are involved.
 * Equal weight on **documentation**: reverse-engineering existing systems into reference material so the next person can pick the work up quickly.
 
