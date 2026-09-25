@@ -3,7 +3,7 @@
   <p><strong>Full-stack Developer · 10+ years · Back-office & Automation</strong></p>
   <p>Developing and maintaining enterprise back-office systems with .NET, Next.js and SQL Server, alongside automation and the applied use of AI within the development process.</p>
   <p>
-    <a href="https://jerateeps.dev"><img src="https://img.shields.io/badge/Resume-jerateeps.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume site" /></a>
+    <a href="https://jerateeps-dev.vercel.app/en"><img src="https://img.shields.io/badge/Resume-jerateeps.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Resume site" /></a>
     <a href="https://www.linkedin.com/in/jerateep-saelee-2b4b8bb2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:jerateep_@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
   </p>
@@ -87,9 +87,4 @@ More on **[jerateeps.dev](https://jerateeps-dev.vercel.app/en)**.
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerateep&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerateep&layout=compact&theme=vue-dark" alt="Top Languages" />
-</div>
