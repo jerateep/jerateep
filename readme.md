@@ -24,7 +24,7 @@
 * **Identity lifecycle automation** — joiner-to-leaver account automation: a Web API driving the corporate directory plus 30+ cloud flows. _Power Automate · Microsoft Graph · Active Directory_
 * **Legacy modernisation** — decade-old ASP.NET Web Forms apps migrated to .NET 8 and Next.js on the existing database, and legacy auth moved onto Microsoft Entra ID (OAuth 2.0).
 
-More on **[jerateeps.dev](https://jerateeps.dev)**.
+More on **[jerateeps.dev](https://jerateeps-dev.vercel.app/en)**.
 
 ---
 
